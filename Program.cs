@@ -8,7 +8,7 @@ namespace CRUD
     {
         static void Main(string[] args)
         {
-            datacollection obj = new datacollection();
+            datacollection obj  = new datacollection();
             obj.VV();
 
         }
